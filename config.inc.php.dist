@@ -1,0 +1,15 @@
+<?php
+
+// matches TKTAuthSecret
+$rcmail_config['auth_tkt_secret_key'] = ' ... ';
+
+// matches TKTAuthBackArgName (optional)
+$rcmail_config['auth_tkt_back_arg'] = 'auth_tkt_back';
+
+// matches TKTAuthToken
+$rcmail_config['auth_tkt_tokens'] = 'dspam';
+
+// additional data to place in cookie (optional)
+$rcmail_config['auth_tkt_data'] = 'citrus!';
+
+?>

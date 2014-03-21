@@ -1,0 +1,27 @@
+{
+    "name": "zomo/auth_tkt",
+    "type": "roundcube-plugin",
+    "description": "mod_auth_tkt cookie manager for Roundcube",
+    "keywords": ["authentication"],
+    "homepage": "http://github.com/zomo/roundcube-auth_tkt",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jon Stuart",
+            "email": "jon@zomo.co.uk",
+            "homepage": "http://www.zomo.co.uk",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "extra": {
+        "roundcube": {
+            "min-version": "0.9.5",
+        }
+    }
+}
