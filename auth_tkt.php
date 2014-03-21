@@ -13,7 +13,7 @@
  *
  * @version 0.1.0
  * @author Jon Stuart
- * @url https:// /
+ * @url https://github.com/zomo/roundcube-auth_tkt
  */
 
 class auth_tkt extends rcube_plugin {
