@@ -19,6 +19,9 @@
             "url": "http://plugins.roundcube.net"
         }
     ],
+    "require": {
+      "roundcube/plugin-installer": ">=0.1.3"
+    },
     "extra": {
         "roundcube": {
             "min-version": "0.9.5"

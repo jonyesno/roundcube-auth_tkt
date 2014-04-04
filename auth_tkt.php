@@ -11,7 +11,7 @@
  *
  * See https://github.com/gavincarr/mod_auth_tkt for more about mod_auth_tkt
  *
- * @version 0.1.1
+ * @version 0.1.2
  * @author Jon Stuart
  * @url https://github.com/zomo/roundcube-auth_tkt
  */
