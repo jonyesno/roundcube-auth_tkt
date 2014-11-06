@@ -1,7 +1,7 @@
 {
     "name": "zomo/auth_tkt",
     "type": "roundcube-plugin",
-    "description": "mod_auth_tkt cookie manager for Roundcube",
+    "description": "mod_auth_tkt single sign-on cookie manager for Roundcube",
     "keywords": ["authentication"],
     "homepage": "http://github.com/zomo/roundcube-auth_tkt",
     "license": "Apache-2.0",
